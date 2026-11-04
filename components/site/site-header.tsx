@@ -5,6 +5,7 @@ import { useCart } from '@/components/cart/cart-context'
 
 const LINKS = [
   { href: '#inicio', label: 'Inicio' },
+  { href: '#historia', label: 'Historia' },
   { href: '#menu', label: 'Menú' },
   { href: '#visita', label: 'Visítanos' },
 ]
